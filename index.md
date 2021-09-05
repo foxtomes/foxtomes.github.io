@@ -1,3 +1,4 @@
+<html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -80,7 +81,8 @@ body {
       <h5 class="w3-center">Tradition since 1889</h5>
       <p class="w3-large">The Catering was founded in blabla by Mr. Smith in lorem ipsum dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute iruredolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.We only use <span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
       <p class="w3-large w3-text-grey w3-hide-medium">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
- 
+    </div>
+  </div>
   
 
 <html>
@@ -179,16 +181,21 @@ input[type=submit]:hover {
         <input type="text" id="time" name="time" placeholder="What time did you spot an orca?">
       
       
-      
+        </select>
         <label for="subject">Details</label>
         <textarea id="subject" name="subject" placeholder="Any extra details such as whether they were with a pod, the conditions, how long they stayed, etc." style="height:170px"></textarea>
         <input type="submit" value="Submit">
       </form>
     </div>
-  </div>
-</div>
+ 
 
 </body>
 </html>
 
- 
+  
+<!-- End page content -->
+</div>
+
+
+</body>
+</html>

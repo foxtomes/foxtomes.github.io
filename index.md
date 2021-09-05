@@ -1,4 +1,3 @@
-html
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -181,7 +180,7 @@ input[type=submit]:hover {
         <input type="text" id="time" name="time" placeholder="What time did you spot an orca?">
       
       
-        </select>
+      
         <label for="subject">Details</label>
         <textarea id="subject" name="subject" placeholder="Any extra details such as whether they were with a pod, the conditions, how long they stayed, etc." style="height:170px"></textarea>
         <input type="submit" value="Submit">
@@ -193,10 +192,4 @@ input[type=submit]:hover {
 </body>
 </html>
 
-  
-<!-- End page content -->
-</div>
-
-
-</body>
-</html>
+ 

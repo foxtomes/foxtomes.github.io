@@ -1,4 +1,3 @@
-<html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,8 +48,9 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#contact">Contact</a>
   <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  
 </div>
 
 <div style="padding-left:16px">
@@ -84,21 +84,114 @@ body {
   </div>
   
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  <!-- Contact Section -->
-  <div class="w3-container w3-padding-64" id="contact">
-    <h1>Contact</h1><br>
-    <p>We offer full-service catering for any event, large or small. We understand your needs and we will cater the food to satisfy the biggerst criteria of them all, both look and taste. Do not hesitate to contact us.</p>
-    <p class="w3-text-blue-grey w3-large"><b>Catering Service, 42nd Living St, 43043 New York, NY</b></p>
-    <p>You can also contact us by phone 00553123-2323 or email catering@catering.com, or you can send us a message here:</p>
-    <form action="/action_page.php" target="_blank">
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
-      <p><input class="w3-input w3-padding-16" type="number" placeholder="How many people" required name="People"></p>
-      <p><input class="w3-input w3-padding-16" type="datetime-local" placeholder="Date and time" required name="date" value="2020-11-16T20:00"></p>
-      <p><input class="w3-input w3-padding-16" type="text" placeholder="Message \ Special requirements" required name="Message"></p>
-      <p><button class="w3-button w3-light-grey w3-section" type="submit">SEND MESSAGE</button></p>
-    </form>
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="container">
+  <div style="text-align:center">
+    <h2>Report a Sighting</h2>
+    <p>Contact us with your sighting:</p>
   </div>
+  <div class="row">
+ 
+
+    </div>
+
+      <form action="/action_page.php">
+        <label for="fname">Name</label>
+        <input type="text" id="contact" name="contact" placeholder="Your name">
+        
+        <label for="lname">Contact details</label>
+        <input type="text" id="contact" name="contact" placeholder="Your email">
+        
+        <label for="lname">Date of spotting</label>
+        <input type="text" id="date" name="date" placeholder="What day did you spot an orca?">
+      
+      <label for="lname">Location</label>
+        <input type="text" id="location" name="location" placeholder="Where did you spot an orca?">
+        
+        <label for="lname">Time</label>
+        <input type="text" id="time" name="time" placeholder="What time did you spot an orca?">
+      
+      
+        </select>
+        <label for="subject">Details</label>
+        <textarea id="subject" name="subject" placeholder="Any extra details such as whether they were with a pod, the conditions, how long they stayed, etc." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
   
 <!-- End page content -->
 </div>

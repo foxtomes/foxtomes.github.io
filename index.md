@@ -50,7 +50,7 @@ body {
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
-  <a href="#register">Register</a>
+  <a href="#unsubcribe">Unsubscribe</a>
   
   
   
@@ -159,10 +159,7 @@ input[type=submit]:hover {
   
   <head>
     
-    
-    delete this line below if it doesn't work
-    
-      <div class="w3-row w3-padding-64" id="about">
+ 
 
     
     
@@ -481,7 +478,7 @@ input:checked + .slider:before {
     
     
     
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our <a href="#terms">Terms & Privacy</a>.</p>
 
     <button type="submit" class="registerbtn"><font size=5> Register
   <div class="container signin">

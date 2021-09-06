@@ -83,8 +83,7 @@ body {
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">About Gary's Gym</h1><br>
       <h5 class="w3-center">Designed to get you fit...not drain your wallet!</h5>
-      <p class="w3-large">Gary's Gym was founded in 2021 as a place to burn that extra chub gained during lockdown.</p>
-      <p class="w3-large w3-text-grey w3-hide-medium">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod temporincididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p class="w3-large">Gary's Gym was founded in 2021 as a place to burn that extra chub gained during lockdown, without the need of a membership. Simply come in and use our selection of machines and pools at a standard rate at the door! We are open from 6 am to 6pm weekdays. </p>
     </div>
   </div>
   

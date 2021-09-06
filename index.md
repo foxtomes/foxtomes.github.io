@@ -488,7 +488,7 @@ input:checked + .slider:before {
 
 Kelvin Grove, Palmerston North, 4414
 
-(026) 8581-805</p>
+(026) 8581-805</p> <center>
 
     <button type="submit" class="registerbtn"><font size=5> Register
   

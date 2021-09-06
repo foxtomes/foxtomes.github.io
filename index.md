@@ -51,7 +51,6 @@ body {
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#register">Register</a>
-  <a href="#terms">Terms & Conditions</a>
   
   
   

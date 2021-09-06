@@ -59,7 +59,7 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Gary's Gym</h2>
+  <h2><font size=10>Gary's Gym</font size></h2>
 </div>
 
 

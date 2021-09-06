@@ -99,6 +99,10 @@ Kelvin Grove, Palmerston North, 4414
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  
+  <center>
+  
+  
 body {
   font-family: Arial, Helvetica, sans-serif;
 }

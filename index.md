@@ -59,7 +59,7 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2><font size=10>Gary's Gym</font size></h2>
+  <h2>Gary's Gym</h2>
 </div>
 
 
@@ -84,6 +84,7 @@ body {
       <h1 class="w3-center">About Gary's Gym</h1><br>
       <h5 class="w3-center">Designed to get you fit...not drain your wallet!</h5>
       <p class="w3-large">Gary's Gym was founded in 2021 as a place to burn that extra chub gained during lockdown, without the need of a membership. Simply come in and use our selection of machines and pools at a standard rate at the door! We are open from 6 am to 6pm weekdays. Located on Cuba Steet, Palmerston North. </p>
+      
     </div>
   </div>
   

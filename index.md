@@ -91,7 +91,7 @@ Kelvin Grove, Palmerston North, 4414
 
 (026) 8581-805
       
-      </b>
+      </p>
       
    
 

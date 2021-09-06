@@ -482,9 +482,7 @@ input:checked + .slider:before {
 
     <button type="submit" class="registerbtn"><font size=5> Register
   <div class="container signin">
-    <p><font size=3>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
+    <p><font size=3>Already have an account? <a href="#">Sign in</a>
 
   
 

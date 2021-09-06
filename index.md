@@ -149,45 +149,6 @@ input[type=submit]:hover {
   }
 }
 </style>
-</head>
-<body>
-
-
-
-<div class="container">
-  <div style="text-align:center">
-    <h2>Report a Sighting</h2>
-    <p>Contact us with your sighting:</p>
-  </div>
-  <div class="row">
- 
-
-    </div>
-
-      <form action="/action_page.php">
-        <label for="fname">Name</label>
-        <input type="text" id="contact" name="contact" placeholder="Your name">
-        
-        <label for="lname">Contact details</label>
-        <input type="text" id="contact" name="contact" placeholder="Your email">
-        
-        <label for="lname">Date of spotting</label>
-        <input type="text" id="date" name="date" placeholder="What day did you spot an orca?">
-      
-      <label for="lname">Location</label>
-        <input type="text" id="location" name="location" placeholder="Where did you spot an orca?">
-        
-        <label for="lname">Time</label>
-        <input type="text" id="time" name="time" placeholder="What time did you spot an orca?">
-      
-      
-       
-        <label for="subject">Details</label>
-        <textarea id="subject" name="subject" placeholder="Any extra details such as whether they were with a pod, the conditions, how long they stayed, etc." style="height:170px"></textarea>
-        <input type="submit" value="Submit">
-      </form>
-    </div>
- 
 
   
   

@@ -470,24 +470,11 @@ input:checked + .slider:before {
     
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
 
-    <button type="submit" class="registerbtn"><font size=10> Register</button></font size>
-  </div>
-  
+    <button type="submit" class="registerbtn"><font size=10> Register
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-</form>
 
-</body>
-  
-  
-  
-  
-  
-  
-</body>
-  
-</html>
 
   
 

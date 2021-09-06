@@ -51,6 +51,11 @@ body {
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
+  <a href="#terms">Terms & Conditions</a>
+  
+  
+  
+  
   
 </div>
 

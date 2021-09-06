@@ -83,7 +83,15 @@ body {
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">About Gary's Gym</h1><br>
       <h5 class="w3-center">Designed to get you fit...not drain your wallet!</h5>
-      <p class="w3-large">Gary's Gym was founded in 2021 as a place to burn that extra chub gained during lockdown, without the need of a membership. Simply come in and use our selection of machines and pools at a standard rate at the door! We are open from 6 am to 6pm weekdays. Located on Cuba Steet, Palmerston North. </p>
+      <p class="w3-large">Gary's Gym was founded in 2021 as a place to burn that extra chub gained during lockdown, without the need of a membership. Simply come in and use our selection of machines and pools at a standard rate at the door! We are open from 6 am to 6pm weekdays. <br><br> 
+      
+        127 Leander Place
+
+Kelvin Grove, Palmerston North, 4414
+
+(026) 8581-805
+      
+      </p>
       
       
     </div>

@@ -66,7 +66,7 @@ body {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600;min-width:500px" id="home">
-  <img class="w3-image" src="https://images.unsplash.com/photo-1558900958-468345a79eaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=789&q=80" alt="Hamburger Catering" width="1600" height="800">
+  <img class="w3-image" src="https://images.unsplash.com/photo-1558900958-468345a79eaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=789&q=80" width="1600" height="800">
   <div class="w3-display-bottomleft w3-padding-large w3-opacity">
     
   </div>
@@ -159,6 +159,15 @@ input[type=submit]:hover {
   
   
   <head>
+    
+    
+    delete this line below if it doesn't work
+    
+      <div class="w3-row w3-padding-64" id="about">
+
+    
+    
+    
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {

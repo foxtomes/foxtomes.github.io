@@ -59,7 +59,7 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Wellington Whale Watch</h2>
+  <h2>Gary's Gym</h2>
 </div>
 
 
@@ -168,7 +168,7 @@ input[type=submit]:hover {
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: black;
+  background-color: white;
 }
 
 * {

@@ -478,7 +478,7 @@ input:checked + .slider:before {
     
     
     
-    <p>By creating an account you agree to our <a href="#terms">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our Terms & Privacy </p>
 
     <button type="submit" class="registerbtn"><font size=5> Register
   <div class="container signin">
@@ -486,3 +486,5 @@ input:checked + .slider:before {
 
   
 
+      
+      Terms and Conditions:

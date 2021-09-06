@@ -50,7 +50,7 @@ body {
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
-  <a href="#unsubcribe">Unsubscribe</a>
+  <a href="#about">Terms & Privacy</a>
   
   
   

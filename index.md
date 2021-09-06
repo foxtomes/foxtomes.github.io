@@ -317,9 +317,6 @@ We want to send you marketing offers and promotions, toggle buttons below to dec
   <span class="slider round"></span>
 </label>
 
-</body>
-</html> 
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -393,8 +390,6 @@ input:checked + .slider:before {
   <span class="slider round"></span>
 </label>
 
-</body>
-</html> 
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -469,7 +464,6 @@ input:checked + .slider:before {
   <span class="slider round"></span>
 </label>
 
-</body>
     <font size=3>
     
     

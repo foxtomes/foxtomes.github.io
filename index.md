@@ -484,7 +484,9 @@ input:checked + .slider:before {
   <div class="container signin">
     <p><font size=3><a href="#">Sign in</a>
 
-  
+      </p>
+      
+      </head>
 
       
       Terms and Conditions:

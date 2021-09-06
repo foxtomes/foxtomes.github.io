@@ -93,7 +93,7 @@ Kelvin Grove, Palmerston North, 4414
       
       </p>
       
-      <p> Terms & Conditions: Door prices are not refundable. To cancel a registration see below.
+      <p> <font size=1> Terms & Conditions: Door prices are not refundable. To cancel registration see below.
       
       
       </p>

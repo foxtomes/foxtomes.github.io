@@ -91,10 +91,7 @@ Kelvin Grove, Palmerston North, 4414
 
 (026) 8581-805
       
-     <font size=1> <i> Terms & Conditions: Door prices are not refundable. To cancel registration see below. </i>
-      
-      
-      </p>
+   
       
    
 

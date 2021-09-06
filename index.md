@@ -65,7 +65,7 @@ body {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600;min-width:500px" id="home">
-  <img class="w3-image" src="https://images.unsplash.com/photo-1558900958-468345a79eaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=789&q=80" width="1600" height="800">
+  <img class="w3-image" src="https://images.unsplash.com/photo-1596357395217-80de13130e92?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80" width="1600" height="800">
   <div class="w3-display-bottomleft w3-padding-large w3-opacity">
     
   </div>
@@ -77,13 +77,13 @@ body {
   <!-- About Section -->
   <div class="w3-row w3-padding-64" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="https://images.unsplash.com/photo-1589871973318-9ca1258faa5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
     </div>
 
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">About Gary's Gym</h1><br>
       <h5 class="w3-center">Designed to get you fit...not drain your wallet!</h5>
-      <p class="w3-large">Gary's Gym was founded in 2021 as a place to burn that extra chub gained during lockdown, without the need of a membership. Simply come in and use our selection of machines and pools at a standard rate at the door! We are open from 6 am to 6pm weekdays. </p>
+      <p class="w3-large">Gary's Gym was founded in 2021 as a place to burn that extra chub gained during lockdown, without the need of a membership. Simply come in and use our selection of machines and pools at a standard rate at the door! We are open from 6 am to 6pm weekdays. Located on Cuba Steet, Palmerston North. </p>
     </div>
   </div>
   

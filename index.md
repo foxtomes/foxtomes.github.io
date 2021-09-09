@@ -480,7 +480,7 @@ input:checked + .slider:before {
   <span class="slider round"></span>
 </label>
 
-    <font size=3>
+    <font size= 1>
     
     
     
@@ -488,7 +488,7 @@ input:checked + .slider:before {
 
 Kelvin Grove, Palmerston North, 4414
 
-(026) 8581-805</p> <center>
+(026) 8581-805</p> <center> <font size =3>
 
     <button type="submit" class="registerbtn"><font size=5> Register
   
